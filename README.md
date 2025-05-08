@@ -17,6 +17,13 @@ Built for use in Google Colab or local Python environments.
 - 🔧 Easy to customize and extend
 
 ---
+## Memebers
+Ibad Ur Rehman
+Usama Zafar
+Muhammad Luqman Shahid
+---
+
+The test file is file.txt. 
 
 ## 🛠 Installation
 
